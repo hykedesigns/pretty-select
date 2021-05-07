@@ -1,0 +1,41 @@
+{
+    "name": "pretty-select",
+    "version": "0.1.0",
+    "description": "A javascript library that replaces native select elements with pretty dropdowns",
+    "main": "./dist/js/pretty.select.min.js",
+    "author": {
+        "name": "HYKE Designs Inc.",
+        "email": "sales@hykedesigns.com",
+        "url": "https://hykedesigns.com/"
+    },
+    "keywords": [
+        "pretty",
+        "select",
+        "html",
+        "plain",
+        "vanilla",
+        "javascript",
+        "hyke",
+        "hyke designs"
+    ],
+    "homepage": "https://hykedesigns.com/",
+    "devDependencies": {
+        "browser-sync": "^2.26.14",
+        "del": "6.0.0",
+        "gulp": "4.0.2",
+        "gulp-autoprefixer": "7.0.1",
+        "gulp-clean-css": "4.3.0",
+        "gulp-cssbeautify": "3.0.0",
+        "gulp-file-include": "2.3.0",
+        "gulp-header": "2.0.9",
+        "gulp-htmlmin": "5.0.1",
+        "gulp-npm-dist": "^1.0.3",
+        "gulp-plumber": "1.2.1",
+        "gulp-rename": "2.0.0",
+        "gulp-sass": "4.1.0",
+        "gulp-sourcemaps": "3.0.0",
+        "gulp-uglify": "3.0.2",
+        "gulp-wait": "0.0.2",
+        "merge-stream": "2.0.0"
+    }
+}
